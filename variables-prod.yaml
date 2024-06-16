@@ -2,3 +2,4 @@ login_host: db-prod.sivakumar.cloud
 login_password: ExpenseApp@1
 login_user: root
 DB_HOST: db-prod.sivakumar.cloud
+BACKEND_API_URL: backend.app-prod.sivakumar.cloud
